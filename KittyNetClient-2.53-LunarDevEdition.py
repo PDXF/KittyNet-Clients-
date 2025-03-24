@@ -392,10 +392,37 @@ if __name__ == "__main__":
 # To maintain your privacy and security, we recommend using a VPN when accessing the KittyNet 
 # Network to protect your connection and location.
 # Always be cautious when interacting with unfamiliar tokens or accounts.
+#  
+# # **Phishing and Scams Warning:**
+# Be aware of phishing attempts and scams within the network. Never click on suspicious links 
+# or share your account details with others. If you receive messages asking for your credentials, 
+# block and report the user immediately. Always verify the authenticity of requests and never share 
+# your tokens or personal information with unknown sources.
 #
+# # **Phishing Scams in Chat:**
+# Be cautious when receiving direct messages or links in the chat. Scammers may pose as fellow users or even as KittyNet staff 
+# to get you to reveal sensitive information or click on malicious links. Always verify the sender and their request before taking action.
+# 
+# # **Sensitive or Inappropriate Content:**
+# Inappropriate content, whether violent, sexually explicit, or offensive, has no place in the KittyNet chat. 
+# If you come across this kind of content, **report it immediately** to ensure the platform remains safe and welcoming for everyone.
+#
+# **Session-Based Tokens:**
+# Your token is unique to each session, meaning once you disconnect and reconnect, you'll receive a different token. 
+# This enhances security by limiting the lifetime of a token and preventing misuse from past sessions.
+#
+# **Visibility of Tokens:**
+# Everyone on KittyNet can see your session token. It's part of your user profile, and it helps identify you during your session.
+# However, **never rely on the token for security** as it's visible to all members of the network.
+#
+# # **Never Share Your Token:**
+# Even though the token is publicly visible in your profile, **do not share it privately** with others. 
+# Sharing your token outside KittyNet increases the risk of impersonation or misuse.
+# 
 #      /\_/\  
 #     ( o.o ) 
 #      > ^ <
-# 
-# -----------------------------------------------------------------------------
+# =^.^=  Be smart, be kind, and have fun. The internet is your playground — make it a good one!
+#
+# ------------------------------------------------------------------------------------------------------
 
