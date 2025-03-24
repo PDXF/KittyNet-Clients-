@@ -388,6 +388,11 @@ if __name__ == "__main__":
 # Note: This client is specifically designed to work with the KittyNet Network and 
 # may not function properly with other network setups.
 # 
+# **Security Notice:**
+# To maintain your privacy and security, we recommend using a VPN when accessing the KittyNet 
+# Network to protect your connection and location.
+# Always be cautious when interacting with unfamiliar tokens or accounts.
+#
 #      /\_/\  
 #     ( o.o ) 
 #      > ^ <
