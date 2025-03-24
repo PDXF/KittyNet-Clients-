@@ -1,3 +1,37 @@
+# -----------------------------------------------------------------------------
+# KittyNet Lunar Dev Edition Client - Built to be Hacked (Modifiable)
+# 
+# This client connects to the closed-source KittyNet Network, offering 
+# a custom token-based system for communication and interaction. The client 
+# is built with modding and experimentation in mind – feel free to change how 
+# it works, but **do not engage in malicious hacking**.
+#
+# Features:
+# - Token-based system (customizable token suffixes)
+# - Minimal chat moderation (unless needed)
+# - No tolerance for harmful behavior (permanent IP blacklist and bans for violators)
+# - Zero tolerance for hate speech, transphobia, homophobia, and similar ideologies
+# 
+# **Warning:**
+# If you engage in harmful activities, your IP will be permanently blacklisted, 
+# and you’ll be banned from all KittyNet-related projects, Valk, and any other 
+# associated platforms. This includes tracking and banning across any available 
+# networks.
+#
+# **Privacy & Anonymity:**
+# Recommended to use an anonymous name or pseudonym instead of your real identity, 
+# especially since this is a network for activism and privacy-conscious interactions.
+#
+# The server is closed-source and will not have its code released in the foreseeable 
+# future. This is intentional to protect the network's integrity.
+#
+#      /\_/\  
+#     ( o.o ) 
+#      > ^ <
+#
+# -----------------------------------------------------------------------------
+
+
 import socket
 import random
 import string
